@@ -143,7 +143,7 @@ header.shadow .logo {
     margin-bottom: 10px;
 }
 
-.titleText {
+.title-text {
     color: #111;
     font-size: 1em;
 }
@@ -409,4 +409,5 @@ footer {
 
 .location {
     color: #fff;
+
 }
